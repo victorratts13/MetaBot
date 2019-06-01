@@ -1,0 +1,2 @@
+# MetaBot
+Bot Para MetaTrader
